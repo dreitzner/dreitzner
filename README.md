@@ -8,6 +8,9 @@
 - blogger
 - founder of Svelte Society Austria
 
+## What I work with...
+
+![list of tools and technologies I work with](https://skillicons.dev/icons?perline=5&i=ts,svelte,html,css,js,vscode,tailwind,nuxtjs,vue,git,gitlab,github,cloudflare,postman,supabase,")
 
 
 <!--
