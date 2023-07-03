@@ -1,4 +1,14 @@
-### Hi there 👋
+# Domenik
+
+- married for over 13 years
+- father of 4 wonderful kids (two boys and two girls)
+- learned robotics (mechatronic automation)
+- web hobbiest turned professional
+- musician
+- blogger
+- founder of Svelte Society Austria
+
+
 
 <!--
 **dreitzner/dreitzner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
