@@ -1,6 +1,6 @@
 # Domenik
 
-- married for over 13 years
+- married for over 15 years
 - father of 4 wonderful kids (two boys and two girls)
 - learned robotics (mechatronic automation)
 - web hobbiest turned professional
@@ -10,7 +10,7 @@
 
 ## What I work with...
 
-![list of tools and technologies I work with](https://skillicons.dev/icons?perline=5&i=ts,svelte,html,css,js,vscode,tailwind,nuxtjs,vue,git,gitlab,github,cloudflare,postman,supabase,")
+![list of tools and technologies I work with](https://skillicons.dev/icons?perline=5&i=ts,svelte,html,css,js,vscode,tailwind,nuxt,vue,git,gitlab,github,cloudflare,postman,supabase,")
 
 
 <!--
@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
